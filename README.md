@@ -250,6 +250,6 @@ If you encounter any issues or have questions:
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
+Your Name - Sagar S. Halli- sagarsh1003.email@example.com
 
 Project Link: [https://github.com/Sagarrrsh/Two-Tier-aws-Terraform-Infrastructure](https://github.com/Sagarrrsh/Two-Tier-aws-Terraform-Infrastructure)
