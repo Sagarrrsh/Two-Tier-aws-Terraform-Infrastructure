@@ -253,6 +253,6 @@ If you encounter any issues or have questions:
 
 ## Contact
 
-Your Name - Sagar S. Halli- sagarsh1003.email@gmail.com
+Your Name - Sagar S. Halli- sagarsh1003@gmail.com
 
 Project Link: [https://github.com/Sagarrrsh/Two-Tier-aws-Terraform-Infrastructure](https://github.com/Sagarrrsh/Two-Tier-aws-Terraform-Infrastructure)
