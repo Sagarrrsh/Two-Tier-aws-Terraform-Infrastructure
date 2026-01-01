@@ -4,8 +4,9 @@
 A complete two-tier architecture on AWS using Terraform for Infrastructure as Code (IaC). This project provisions a scalable web application infrastructure with a presentation tier and data tier.
 
 ## Architecture Overview
-![Uploading 28861751-a77d-41f8-ae97-85acd394c80d-01.jpeg…]()
 
+
+![28861751-a77d-41f8-ae97-85acd394c80d-01](https://github.com/user-attachments/assets/4ed822b6-53db-4433-b665-2580004ba727)
 
 This infrastructure includes:
 
