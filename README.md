@@ -1,4 +1,3 @@
-# Two-Tier-aws-Terraform-Infrastructure[terraform-aws-readme.md](https://github.com/user-attachments/files/22497807/terraform-aws-readme.md)
 # Two-Tier AWS Terraform Infrastructure
 
 A complete two-tier architecture on AWS using Terraform for Infrastructure as Code (IaC). This project provisions a scalable web application infrastructure with a presentation tier and data tier.
